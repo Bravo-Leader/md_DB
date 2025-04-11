@@ -1,10 +1,10 @@
- # Atelier Communication
+# Atelier Communication
 
 ## Introduction
 L'atelier de communication est conçu pour vous aider à améliorer vos compétences en communication, que ce soit dans votre vie personnelle ou professionnelle.
 
 ## Vidéo de présentation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/example-video-id" title="Atelier Communication" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Vidéo de présentation](https://img.youtube.com/vi/example-video-id/0.jpg)](https://www.youtube.com/watch?v=example-video-id)
 
 ## Objectifs de l'atelier
 - Développer une communication efficace
